@@ -1,2 +1,3 @@
 <?php
-echo "Hi, 確認です!";
+$str = "abc";
+echo "{$str}def";/*$strは{}で囲む*/
