@@ -1,2 +1,2 @@
 <?php
-echo "Hi, PHP on Docker!";
+echo "Hi, 確認です!";
