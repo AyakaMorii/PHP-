@@ -1,3 +1,4 @@
 <?php
-$str = "abc";
-echo "{$str}def";/*$strは{}で囲む*/
+$name = '高橋';
+$colorname = 'red';
+$num = 20;
