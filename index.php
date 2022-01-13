@@ -1,3 +1,3 @@
 <?php
-$str = "abc";
+$str = "ABC";
 echo "{$str}def";/*$strは{}で囲む*/
